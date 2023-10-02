@@ -288,7 +288,7 @@ DEPENDENCIES
   redis-namespace (~> 1.11)
   sass-rails (>= 6)
   selenium-webdriver
-  sidekiq (~> 6.1)
+  sidekiq (~> 6.5.9)
   spring
   turbolinks (~> 5)
   twitter (~> 7.0)
